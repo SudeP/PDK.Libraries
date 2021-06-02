@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{EB5ED2F8-525A-4A11-8D7B-61467BC6EAEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvSql", "AdvSql\AdvSql.csproj", "{52605E55-F05A-4DCB-9BD1-AE906936F8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{2CF1F4B2-0C4D-4DA6-AC4E-3D25435710E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5ED2F8-525A-4A11-8D7B-61467BC6EAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5ED2F8-525A-4A11-8D7B-61467BC6EAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5ED2F8-525A-4A11-8D7B-61467BC6EAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5ED2F8-525A-4A11-8D7B-61467BC6EAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52605E55-F05A-4DCB-9BD1-AE906936F8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52605E55-F05A-4DCB-9BD1-AE906936F8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52605E55-F05A-4DCB-9BD1-AE906936F8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52605E55-F05A-4DCB-9BD1-AE906936F8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF1F4B2-0C4D-4DA6-AC4E-3D25435710E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF1F4B2-0C4D-4DA6-AC4E-3D25435710E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF1F4B2-0C4D-4DA6-AC4E-3D25435710E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF1F4B2-0C4D-4DA6-AC4E-3D25435710E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE81948-3F5B-40A3-BA78-5607022585B9}
+	EndGlobalSection
+EndGlobal
