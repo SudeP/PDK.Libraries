@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvSql", "AdvSql\AdvSql.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{2CF1F4B2-0C4D-4DA6-AC4E-3D25435710E5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Payment3D", "Payment3D\Payment3D.csproj", "{39425980-428C-4C86-B07E-2F5053EBF574}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2CF1F4B2-0C4D-4DA6-AC4E-3D25435710E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CF1F4B2-0C4D-4DA6-AC4E-3D25435710E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CF1F4B2-0C4D-4DA6-AC4E-3D25435710E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39425980-428C-4C86-B07E-2F5053EBF574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39425980-428C-4C86-B07E-2F5053EBF574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39425980-428C-4C86-B07E-2F5053EBF574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39425980-428C-4C86-B07E-2F5053EBF574}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
